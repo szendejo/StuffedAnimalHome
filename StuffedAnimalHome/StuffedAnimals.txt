@@ -1,0 +1,13 @@
+Name: Kiki
+Type: Kitten
+
+
+
+
+Name: Bobo
+Type: Bonobo
+
+Name: Coco
+Type: Cockatoo
+
+
